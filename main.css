@@ -1,0 +1,33 @@
+.colordiv {
+    height: 200px;
+    width: 200px;
+    margin: inherit;
+    float: left;
+}
+input {
+    width: 50px;
+}
+.textdiv {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin: inherit;
+}
+.inside_div {
+    align-content: center;
+    text-align: center;
+}
+#textDiv1 {
+    clear: left;
+    margin: inherit;
+    height: auto;
+    width: 200px;
+    padding: auto;
+}
+#div_button{
+    clear: left;
+    margin: inherit;
+}
+#colordiv5{
+    clear: left;
+}
